@@ -32,7 +32,3 @@ def create_sport_buildings_list():
                                               500, SportKind.ARCHERY, 30, 15, 250))
 
     return sport_buildings
-
-
-# Execution point
-main()
